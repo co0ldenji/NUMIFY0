@@ -1,0 +1,350 @@
+{
+  "settings": {
+    "joinLinks": [
+      {
+        "name": "nexvaultorg",
+        "url": "https://t.me/NexVaultOrg",
+        "enabled": true
+      }
+    ],
+    "supportUsername": "EnoughVoid",
+    "usdtToInrRate": 45,
+    "minDepositInr": 20,
+    "payments": {
+      "gpay": {
+        "enabled": false,
+        "qrFileId": null,
+        "qrFileIdAdmin": null,
+        "upiId": null,
+        "upiName": null
+      },
+      "fampay": {
+        "enabled": true,
+        "qrFileId": "AgACAgUAAyEGAATrTPi_AAPMargAAeBmPoRahVVX1IFvA1u6DQFUAALnE2sbYVLBVcA4mU1pNCZaAQADAgADeAADPQQ",
+        "qrFileIdAdmin": "AgACAgUAAxkDAAN8arfRGCujD46nfxDv6gvimFrl4ocAAtcWaxtnFMFVhLjUflc6ztkBAAMCAAN4AAM9BA",
+        "upiId": "mayankgfx@fam",
+        "upiName": "Mayank Saxena"
+      },
+      "anyupi": {
+        "enabled": true,
+        "qrFileId": "AgACAgUAAyEGAATrTPi_AAPMargAAeBmPoRahVVX1IFvA1u6DQFUAALnE2sbYVLBVcA4mU1pNCZaAQADAgADeAADPQQ",
+        "qrFileIdAdmin": "AgACAgUAAxkDAAN8arfRGCujD46nfxDv6gvimFrl4ocAAtcWaxtnFMFVhLjUflc6ztkBAAMCAAN4AAM9BA",
+        "upiId": "mayankgfx@fam",
+        "upiName": "MAYANK SAXENA"
+      },
+      "binance": {
+        "enabled": false,
+        "binanceId": null,
+        "binanceName": null
+      }
+    },
+    "features": {
+      "buyAccount": true,
+      "buySession": false,
+      "deposit": true,
+      "referEarn": true,
+      "support": true,
+      "leaderboard": true
+    },
+    "flashSale": {
+      "active": false,
+      "productId": null,
+      "discountPercent": 0,
+      "endsAt": null
+    }
+  },
+  "products": {
+    "1": {
+      "id": "1",
+      "stock": 2,
+      "inventory": [
+        {
+          "id": "1790493966974_4",
+          "login": "+917569845632",
+          "password": "12",
+          "addedAt": 1790493966974
+        },
+        {
+          "id": "1790493981692_5",
+          "login": "+919654785236",
+          "password": "12",
+          "addedAt": 1790493981692
+        }
+      ],
+      "sessionMode": false,
+      "flashSale": false,
+      "name": "India 2026",
+      "price": 45,
+      "emoji": "🇮🇳",
+      "description": null,
+      "createdAt": 1790431427967
+    }
+  },
+  "users": {
+    "1833699891": {
+      "userId": "1833699891",
+      "username": "dracarrryss",
+      "firstName": "Kartik Singh vats 🦇",
+      "balance": 99995,
+      "totalDeposited": 100040,
+      "depositCount": 2,
+      "referredBy": null,
+      "referralCount": 0,
+      "referralEarned": 0,
+      "joinedAt": 1790444058119,
+      "totalSpent": 45
+    },
+    "7575411721": {
+      "userId": "7575411721",
+      "username": "DarkPrivilege",
+      "firstName": "- 𝖭𝗈𝖼𝗍𝖾𝗏𝗂𝗑 𖣘",
+      "balance": 100415,
+      "totalDeposited": 100550,
+      "depositCount": 3,
+      "referredBy": null,
+      "referralCount": 0,
+      "referralEarned": 0,
+      "joinedAt": 1790431448333,
+      "totalSpent": 135
+    },
+    "8676785610": {
+      "userId": "8676785610",
+      "username": "Godsfavniggahh",
+      "firstName": "I",
+      "balance": 455,
+      "totalDeposited": 500,
+      "depositCount": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "referralEarned": 0,
+      "joinedAt": 1790443600445,
+      "totalSpent": 45
+    },
+    "5064096502": {
+      "userId": "5064096502",
+      "username": "EnoughVoid",
+      "firstName": "ㅤ⏤͟͞𝙈𝙖𝙮𝙖𝙣𝙠 ༯ㅤㅤ",
+      "balance": 0,
+      "totalDeposited": 0,
+      "depositCount": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "referralEarned": 0,
+      "joinedAt": 1790523972220
+    },
+    "8993876843": {
+      "userId": "8993876843",
+      "username": "former_ussr",
+      "firstName": "nga",
+      "balance": 0,
+      "totalDeposited": 0,
+      "depositCount": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "referralEarned": 0,
+      "joinedAt": 1790693385951
+    },
+    "8431117995": {
+      "userId": "8431117995",
+      "username": "Cooldenji",
+      "firstName": "Denji",
+      "balance": 9955,
+      "totalDeposited": 10000,
+      "depositCount": 1,
+      "referredBy": null,
+      "referralCount": 0,
+      "referralEarned": 0,
+      "joinedAt": 1790693540967,
+      "totalSpent": 45
+    },
+    "8529945089": {
+      "userId": "8529945089",
+      "username": "Yours_Rasm",
+      "firstName": "ㅤ⏤͟͞OFF - RASM",
+      "balance": 0,
+      "totalDeposited": 0,
+      "depositCount": 0,
+      "referredBy": null,
+      "referralCount": 0,
+      "referralEarned": 0,
+      "joinedAt": 1790698074717
+    }
+  },
+  "deposits": {
+    "2": {
+      "id": "2",
+      "status": "approved",
+      "createdAt": 1790431506681,
+      "userId": "7575411721",
+      "amount": 50,
+      "method": "fampay",
+      "screenshotFileId": "AgACAgUAAxkBAAMjarfREoYrQ-RP64FGqiYdDa69caoAAsIQaxv8sMFVLQMoBRAZiqYBAAMCAAN4AAM9BA",
+      "screenshotFileIdAdmin": "AgACAgUAAxkDAAN8arfRGCujD46nfxDv6gvimFrl4ocAAtcWaxtnFMFVhLjUflc6ztkBAAMCAAN4AAM9BA",
+      "approvedAt": 1790431549721
+    },
+    "4": {
+      "id": "4",
+      "status": "approved",
+      "createdAt": 1790444100063,
+      "userId": "1833699891",
+      "amount": 40,
+      "method": "fampay",
+      "screenshotFileId": "AgACAgIAAxkBAAMyargCQ77xtEHmP2bS3NZgwjr2qRkAAqwgaxu0XcBJadiWgr4sNLIBAAMCAAN4AAM9BA",
+      "screenshotFileIdAdmin": "AgACAgUAAxkDAAOmargCSMd0DHQrbOJL_LHNxJMriLMAAnsUaxtPpsBV4TP2gqRSGW8BAAMCAAN4AAM9BA",
+      "approvedAt": 1790444137966
+    },
+    "5": {
+      "id": "5",
+      "status": "approved",
+      "createdAt": 1790444164652,
+      "userId": "1833699891",
+      "amount": 100000,
+      "method": "fampay",
+      "screenshotFileId": "AgACAgIAAxkBAAMyargCQ77xtEHmP2bS3NZgwjr2qRkAAqwgaxu0XcBJadiWgr4sNLIBAAMCAAN4AAM9BA",
+      "screenshotFileIdAdmin": "AgACAgUAAxkDAAOmargCSMd0DHQrbOJL_LHNxJMriLMAAnsUaxtPpsBV4TP2gqRSGW8BAAMCAAN4AAM9BA",
+      "approvedAt": 1790444186229
+    },
+    "7": {
+      "id": "7",
+      "status": "approved",
+      "createdAt": 1790485814244,
+      "userId": "7575411721",
+      "amount": 500,
+      "method": "fampay",
+      "screenshotFileId": "AgACAgUAAxkBAANBarilNYbXkOv6qgfzleWP_B0CMkEAAtwQaxvMIshVxmWSkIYTqfwBAAMCAAN5AAM9BA",
+      "screenshotFileIdAdmin": "AgACAgUAAxkDAAO9arilOo4oUkjQBTFWJHQHdUHXQG8AArsRaxtPpshV9wABpVFi5R3YAQADAgADeQADPQQ",
+      "approvedAt": 1790693683605
+    },
+    "8": {
+      "id": "8",
+      "status": "approved",
+      "createdAt": 1790493696530,
+      "userId": "7575411721",
+      "amount": 100000,
+      "method": "fampay",
+      "screenshotFileId": "AgACAgUAAxkBAANZarjEAAEFaXu58WcB7Jpuc6nr520yAAIxEWsbzCLIVWG1rn0JhVbSAQADAgADdwADPQQ",
+      "screenshotFileIdAdmin": "AgACAgUAAxkDAAPharjEBT7-iwABlmxE8epRHD5GM8C7AALjEWsbT6bIVcaasc9ySZAkAQADAgADdwADPQQ",
+      "approvedAt": 1790493708843
+    },
+    "10": {
+      "id": "10",
+      "status": "approved",
+      "createdAt": 1790693617544,
+      "userId": "8431117995",
+      "amount": 10000,
+      "method": "anyupi",
+      "screenshotFileId": "AgACAgQAAxkBAAN0arvQ8FY8c9Cqf7AhhdTcuK3AUtwAAosPaxuM4OBR1NvQD2Uy7aIBAAMCAAN5AAM9BA",
+      "screenshotFileIdAdmin": "AgACAgUAAxkDAAIBCGq70Pc_ItmmkeFvAvmPD9G-idX-AAJjFWsbwLfZVftcCFa1gU45AQADAgADeQADPQQ",
+      "approvedAt": 1790693640458
+    },
+    "13": {
+      "id": "13",
+      "status": "approved",
+      "createdAt": 1790698452010,
+      "userId": "8676785610",
+      "amount": 500,
+      "method": "anyupi",
+      "screenshotFileId": "AgACAgEAAxkBAAOWarvj07Bp6zVIKjbpzJCsWlLXIBsAAh4NaxvkodhFgTmBEZZbgm8BAAMCAAN5AAM9BA",
+      "screenshotFileIdAdmin": "AgACAgUAAxkDAAIBImq749n8cY3NOXI56az5-nB84bMLAAIbEWsbwLfhVboJx1CKEWWGAQADAgADeQADPQQ",
+      "approvedAt": 1790698481259
+    }
+  },
+  "orders": {
+    "3": {
+      "id": "3",
+      "status": "delivered",
+      "createdAt": 1790431573042,
+      "userId": "7575411721",
+      "productId": "1",
+      "quantity": 1,
+      "totalPrice": 45,
+      "inventoryItemId": "1790431421124_1",
+      "passwordRequestCount": 2,
+      "lastPasswordRequestAt": 1790431587350,
+      "lastPasswordSentAt": 1790431606476,
+      "passwordRequestFulfilled": 1,
+      "deliveredAt": 1790431653150
+    },
+    "6": {
+      "id": "6",
+      "status": "delivered",
+      "createdAt": 1790444274819,
+      "userId": "1833699891",
+      "productId": "1",
+      "quantity": 1,
+      "totalPrice": 45,
+      "inventoryItemId": "1790443891674_1",
+      "passwordRequestCount": 0,
+      "deliveredAt": 1790493817926
+    },
+    "9": {
+      "id": "9",
+      "status": "delivered",
+      "createdAt": 1790493730758,
+      "userId": "7575411721",
+      "productId": "1",
+      "quantity": 1,
+      "totalPrice": 45,
+      "inventoryItemId": "1790485672759_1",
+      "login": "+919467926478",
+      "passwordRequestCount": 1,
+      "lastPasswordRequestAt": 1790493772355,
+      "lastPasswordSentAt": 1790493788696,
+      "passwordRequestFulfilled": 1,
+      "deliveredAt": 1790493811376
+    },
+    "11": {
+      "id": "11",
+      "status": "delivered",
+      "createdAt": 1790693679465,
+      "userId": "8431117995",
+      "productId": "1",
+      "quantity": 1,
+      "totalPrice": 45,
+      "inventoryItemId": "1790493932677_1",
+      "login": "+919874563210",
+      "passwordRequestCount": 1,
+      "lastPasswordRequestAt": 1790693722180,
+      "lastPasswordSentAt": 1790693738617,
+      "passwordRequestFulfilled": 1,
+      "deliveredAt": 1790693745192
+    },
+    "12": {
+      "id": "12",
+      "status": "delivered",
+      "createdAt": 1790694425409,
+      "userId": "7575411721",
+      "productId": "1",
+      "quantity": 1,
+      "totalPrice": 45,
+      "inventoryItemId": "1790493944427_2",
+      "login": "+918596745235",
+      "passwordRequestCount": 1,
+      "lastPasswordRequestAt": 1790694432886,
+      "lastPasswordSentAt": 1790694446318,
+      "passwordRequestFulfilled": 1,
+      "deliveredAt": 1790694455194
+    },
+    "14": {
+      "id": "14",
+      "status": "delivered",
+      "createdAt": 1790698669813,
+      "userId": "8676785610",
+      "productId": "1",
+      "quantity": 1,
+      "totalPrice": 45,
+      "inventoryItemId": "1790493954766_3",
+      "login": "+919685741230",
+      "passwordRequestCount": 2,
+      "lastPasswordRequestAt": 1790698730869,
+      "lastPasswordSentAt": 1790698744649,
+      "passwordRequestFulfilled": 1,
+      "deliveredAt": 1790698750499
+    }
+  },
+  "admins": {},
+  "referrals": {},
+  "notifyQueue": {},
+  "bans": {},
+  "_nextId": 15
+}
