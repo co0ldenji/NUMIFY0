@@ -1,0 +1,21 @@
+{
+  "name": "nexvault-shop-auto",
+  "version": "3.0.0",
+  "description": "TG Shop with FamPay auto-verify + GramJS auto OTP",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "admin": "node admin-bot.js",
+    "user": "node user-bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "0.66.0",
+    "dotenv": "16.4.5",
+    "telegram": "2.26.22",
+    "input": "1.0.1",
+    "qrcode": "1.5.4",
+    "imapflow": "1.0.164",
+    "mailparser": "3.7.1",
+    "big-integer": "1.6.52"
+  }
+}
